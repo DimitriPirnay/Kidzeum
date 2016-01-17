@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Kidzeum",
+  "ProjectGuid": "1754d2cb-118f-41e8-b948-7eaeb1e22ca8",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Kidzeum",
+  "DisplayName": "Kidzeum",
+  "Author": "",
+  "Description": "Kidzeum",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{744f0754-7559-4b3d-89ac-2b50148e1827}",
+  "WP8ProductID": "{84ae4d4e-e95d-45f5-aeaf-dadf4a9a8c19}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Kidzeum",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
